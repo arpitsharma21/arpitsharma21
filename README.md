@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arpit Sharma
-- 👀 I’m interested in Data Science Stuff
-- Cureently i am in  my 4th year of BTech
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on this
+- 👀 I’m interested in Data Science, Salesforce and Java Stuff.
+- Cureently i am a Graduate Engineer Trainee in Coforge
+- 🌱 I’m currently working on Salesforce.
+- 💞️ I’m looking to collaborate on this.
 - 📫 How to reach me:  www.linkedin.com/in/arpit-sharma21
 
 <!---
