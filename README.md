@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Sharma
 - 👀 I’m interested in Data Science, Salesforce and Java Stuff.
-- Cureently i am a Graduate Engineer Trainee in Coforge
+-  I am a Software Trainee in Coforge
 - 🌱 I’m currently working on Salesforce.
 - 💞️ I’m looking to collaborate on this.
 - 📫 How to reach me:  www.linkedin.com/in/arpit-sharma21
